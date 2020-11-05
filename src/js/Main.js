@@ -1,5 +1,17 @@
 
-console.log("hello world");
-console.log("hello world");
-console.log("hello world");
-console.log("fsf");
+
+let application = document.querySelector(".dice-window-wrapper");
+
+ application = {
+    
+
+    drag = function(){
+
+        console.log("hej");
+
+
+    }
+
+
+
+}
