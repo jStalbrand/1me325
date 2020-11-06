@@ -8,6 +8,8 @@ let application = document.querySelector(".dice-window-wrapper");
     drag = function(){
 
         console.log("hej");
+        console.log("hej");
+        
 
 
     }
