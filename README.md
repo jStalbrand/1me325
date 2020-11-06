@@ -1,8 +1,8 @@
-Detta är readme-filen
+# Detta är readme-filen
 --------------------
 
 
-udnerrubrik
+## udnerrubrik
 ----------------
 
 
@@ -15,11 +15,11 @@ dasdsaadas
 dasddadadadasdasdasdasad
 
 
-	dasdaaadasdasdaa	
+dasdaaadasdasdaa	
 	
-	ddddsdsddsddsddsd
+ddddsdsddsddsddsd
 
-*dasddsad
-*dasdadda
+* dasddsad
+* dasdadda
 
 *dasdsdada
