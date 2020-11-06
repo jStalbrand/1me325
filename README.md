@@ -1,6 +1,5 @@
 Detta är readme-filen
 --------------------
----------------------
 
 
 udnerrubrik
@@ -14,3 +13,13 @@ dasdadada
 dasdsaadas
 
 dasddadadadasdasdasdasad
+
+
+	dasdaaadasdasdaa	
+	
+	ddddsdsddsddsddsd
+
+*dasddsad
+*dasdadda
+
+*dasdsdada
