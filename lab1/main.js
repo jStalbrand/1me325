@@ -3,6 +3,7 @@ var arr = [];
 for(var i = 0; i < 10; i++){
     arr.push(i);
 }
+console.log(arr);
 
 function init(event){
 
@@ -20,3 +21,4 @@ function get_random_nr() {
 }
 
 window.onload = init;
+
