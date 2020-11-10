@@ -10,6 +10,7 @@ function init(event){
     var a = get_random_nr();
     var b = get_random_nr();
     var z = a + b;
+    var e = a;
     document.querySelector("#page-wrapper").innerHTML = a + " + " + b + " = " + (a + b);
 
 }
