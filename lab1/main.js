@@ -3,19 +3,13 @@ var arr = [];
 for(var i = 0; i < 10; i++){
     arr.push(i);
 }
-console.log("dasdasda");
-console.log("dasdasda");
-console.log("dasdasda");
-console.log("dasdasda");
-console.log("dasdasda");
-console.log("dasdasda");
-
 console.log(arr);
 
 function init(event){
 
     var a = get_random_nr();
     var b = get_random_nr();
+    var z = a + b;
     document.querySelector("#page-wrapper").innerHTML = a + " + " + b + " = " + (a + b);
 
 }
