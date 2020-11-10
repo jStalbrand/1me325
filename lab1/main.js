@@ -3,8 +3,10 @@ var arr = [];
 for(var i = 0; i < 10; i++){
     arr.push(i);
 }
-console.log(arr);
-console.log(arr);
+console.log("dasdasda");
+console.log("dasdasda");
+console.log("dasdasda");
+
 console.log(arr);
 
 function init(event){
